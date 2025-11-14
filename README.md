@@ -1,2 +1,2 @@
-# bitcoin_privatekey_search
-计算仓库C++
+计算仓库GPU
+C++编译及运行
